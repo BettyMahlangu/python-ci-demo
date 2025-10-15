@@ -2,7 +2,7 @@ import datetime
 import platform
 
 def user_greet():
-    user_name = "Betty"
+    user_name = "Betty Mahlangu"
     time_now = datetime.datetime.now().strftime("%Y-%M-%D %H:%M:%S")
     system = platform.system()
 
